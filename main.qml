@@ -61,5 +61,14 @@ Window {
         border.width: 4
         radius: 20
         smooth: true
+
+        TextField {
+            x: 10
+            y: 20
+            color: "yellow"
+            text: "Text Text Text<br>Text Text Text"
+            border.width: 1
+            radius: 2
+        }
     }
 }
