@@ -3,4 +3,5 @@ TEMPLATE = subdirs
 SUBDIRS = \
     RectanglesAndCustomElement \
     FlickableAndRepeater \
-    Controls
+    Controls \
+    Dialogs
