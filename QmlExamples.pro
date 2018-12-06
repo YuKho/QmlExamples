@@ -1,6 +1,6 @@
 TEMPLATE = subdirs
 
 SUBDIRS = \
-    EmptyQmlProject \
+    RectanglesAndCustomElement \
     FlickableAndRepeater \
     Controls
