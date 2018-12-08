@@ -4,4 +4,5 @@ SUBDIRS = \
     RectanglesAndCustomElement \
     FlickableAndRepeater \
     Controls \
-    Dialogs
+    Dialogs \
+    Anchors
