@@ -6,4 +6,5 @@ SUBDIRS = \
     Controls \
     Dialogs \
     Anchors \
-    Layouts
+    Layouts \
+    Flow

@@ -1,0 +1,42 @@
+import QtQuick 2.9
+import QtQuick.Window 2.2
+
+Window {
+    visible: true
+    width: 640
+    height: 200
+    title: qsTr("Flow")
+
+    Flow
+    {
+        anchors.fill: parent
+        anchors.margins: 20
+        spacing: 20
+        Repeater
+        {
+            model:
+            {
+                var v = new Array(10);
+                for (var i = 0; i < v.length; ++i)
+                    v[i] = i % 2 ? "green" : "red";
+                return v;
+            }
+
+            Rectangle
+            {
+                width: 64; height: 64
+                radius: 32
+                color: modelData
+                Text
+                {
+                    color: "white"
+                    font.pixelSize: 48
+                    font.bold: true
+                    font.family: "Courier"
+                    anchors.centerIn: parent
+                    text: index
+                }
+            }
+        }
+    }
+}
