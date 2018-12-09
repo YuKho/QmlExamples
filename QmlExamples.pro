@@ -7,4 +7,5 @@ SUBDIRS = \
     Dialogs \
     Anchors \
     Layouts \
-    Flow
+    Flow \
+    Image
