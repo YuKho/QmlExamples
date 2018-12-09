@@ -5,4 +5,5 @@ SUBDIRS = \
     FlickableAndRepeater \
     Controls \
     Dialogs \
-    Anchors
+    Anchors \
+    Layouts
