@@ -8,4 +8,5 @@ SUBDIRS = \
     Anchors \
     Layouts \
     Flow \
-    Image
+    Image \
+    FastBlurEffect
