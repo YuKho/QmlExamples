@@ -11,4 +11,5 @@ SUBDIRS = \
     Image \
     FastBlurEffect \
     Gradient \
-    Canvas
+    Canvas \
+    ShaderEffect
