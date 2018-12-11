@@ -10,4 +10,5 @@ SUBDIRS = \
     Flow \
     Image \
     FastBlurEffect \
-    Gradient
+    Gradient \
+    Canvas
