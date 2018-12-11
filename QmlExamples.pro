@@ -9,4 +9,5 @@ SUBDIRS = \
     Layouts \
     Flow \
     Image \
-    FastBlurEffect
+    FastBlurEffect \
+    Gradient
