@@ -14,4 +14,5 @@ SUBDIRS = \
     Canvas \
     ShaderEffect \
     MouseArea \
-    CustomSignals
+    CustomSignals \
+    KeyNavigationAndFocus
