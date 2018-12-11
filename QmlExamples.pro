@@ -13,4 +13,5 @@ SUBDIRS = \
     Gradient \
     Canvas \
     ShaderEffect \
-    MouseArea
+    MouseArea \
+    CustomSignals
