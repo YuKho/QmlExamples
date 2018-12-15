@@ -18,4 +18,5 @@ SUBDIRS = \
     KeyNavigationAndFocus \
     AnimationPropertyColorRatation \
     BehaviorAnimation \
-    SequentialAnimation
+    SequentialAnimation \
+    ParallelAnimation
