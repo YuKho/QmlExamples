@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file alias="google">../common/google.png</file>
+    </qresource>
+</RCC>

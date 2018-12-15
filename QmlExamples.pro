@@ -17,4 +17,5 @@ SUBDIRS = \
     CustomSignals \
     KeyNavigationAndFocus \
     AnimationPropertyColorRatation \
-    BehaviorAnimation
+    BehaviorAnimation \
+    SequentialAnimation
