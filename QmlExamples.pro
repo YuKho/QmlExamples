@@ -15,4 +15,5 @@ SUBDIRS = \
     ShaderEffect \
     MouseArea \
     CustomSignals \
-    KeyNavigationAndFocus
+    KeyNavigationAndFocus \
+    AnimationPropertyColorRatation
