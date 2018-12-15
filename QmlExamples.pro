@@ -16,4 +16,5 @@ SUBDIRS = \
     MouseArea \
     CustomSignals \
     KeyNavigationAndFocus \
-    AnimationPropertyColorRatation
+    AnimationPropertyColorRatation \
+    BehaviorAnimation
