@@ -19,4 +19,5 @@ SUBDIRS = \
     AnimationPropertyColorRatation \
     BehaviorAnimation \
     SequentialAnimation \
-    ParallelAnimation
+    ParallelAnimation \
+    States
