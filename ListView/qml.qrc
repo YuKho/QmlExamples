@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>CDs.js</file>
+        <file alias="Amaranthe">../common/covers/Amaranthe.jpg</file>
+        <file alias="AprilRain">../common/covers/AprilRain.jpg</file>
+        <file alias="DarkPassionPlay">../common/covers/DarkPassionPlay.jpg</file>
+        <file alias="Fallen">../common/covers/Fallen.jpg</file>
+        <file alias="NineDestiniesAndADownfall">../common/covers/NineDestiniesAndADownfall.jpg</file>
+        <file alias="Rubicon">../common/covers/Rubicon.jpg</file>
+        <file alias="TheDivineConspirancy">../common/covers/TheDivineConspirancy.jpg</file>
+        <file alias="TheUnforgiving">../common/covers/TheUnforgiving.jpg</file>
+        <file alias="WithoutYou">../common/covers/WithoutYou.jpg</file>
+    </qresource>
+</RCC>
